@@ -12,6 +12,9 @@ def score_game(random_predict) -> int:
     Returns:
         int: среднее количество попыток
     """
+    
+    
+    
 
 
 
